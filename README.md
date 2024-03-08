@@ -44,5 +44,4 @@ link:- https://www.microsoft.com/en-us/download/details.aspx?id=58494
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![mock up dashboard_atliq grands](https://github.com/Antrikshsoft9990/data_analysis_project_Hospitality_domain/assets/130773917/c6fc4f51-d50a-4db9-9ffe-abd7e5a0c3c1)
